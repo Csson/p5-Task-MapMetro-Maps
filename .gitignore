@@ -1,0 +1,8 @@
+/Task-MapMetro-Maps-*
+/.build
+/_build*
+/Build
+MYMETA.*
+!META.json
+/.prove
+

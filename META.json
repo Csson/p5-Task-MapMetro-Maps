@@ -1,10 +1,10 @@
 {
-   "abstract" : "Short intro",
+   "abstract" : "All Map::Metro maps",
    "author" : [
       "Erik Carlsson <info@code301.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.029, Dist::Iller version 0.0001, CPAN::Meta::Converter version 2.143240",
+   "generated_by" : "Dist::Zilla version 5.029, Dist::Iller version 0.1002, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "perl_5"
    ],
@@ -31,6 +31,7 @@
       },
       "develop" : {
          "requires" : {
+            "Test::EOF" : "0",
             "Test::EOL" : "0",
             "Test::More" : "0",
             "Test::NoTabs" : "0",
@@ -39,6 +40,16 @@
       },
       "runtime" : {
          "requires" : {
+            "Map::Metro" : "0.2101",
+            "Map::Metro::Plugin::Map::Amsterdam" : "0",
+            "Map::Metro::Plugin::Map::Athens" : "0",
+            "Map::Metro::Plugin::Map::Barcelona" : "0",
+            "Map::Metro::Plugin::Map::Berlin" : "0",
+            "Map::Metro::Plugin::Map::Copenhagen" : "0",
+            "Map::Metro::Plugin::Map::Gothenburg" : "0",
+            "Map::Metro::Plugin::Map::Helsinki" : "0",
+            "Map::Metro::Plugin::Map::Oslo" : "0",
+            "Map::Metro::Plugin::Map::Stockholm" : "0",
             "perl" : "5.010001"
          }
       },

@@ -1,33 +1,48 @@
-use 5.10.1;
-use strict;
-use warnings;
-
 package Task::MapMetro::Maps;
 
 # VERSION
 
-
-
 1;
+
+# ABSTRACT: All Map::Metro maps
 
 __END__
 
 =encoding utf-8
 
-=head1 NAME
-
-Task::MapMetro::Maps - Short intro
-
 =head1 SYNOPSIS
 
-  use Task::MapMetro::Maps;
+    $ cpanm Task::MapMetro::Maps
 
-=head1 DESCRIPTION
+=pkgroup Map::Metro
 
-Task::MapMetro::Maps is ...
+=pkg Map::Metro 0.2101
+
+=pkgroup Available maps
+
+=pkg Map::Metro::Plugin::Map::Amsterdam
+
+=pkg Map::Metro::Plugin::Map::Athens
+
+=pkg Map::Metro::Plugin::Map::Barcelona
+
+=pkg Map::Metro::Plugin::Map::Berlin
+
+=pkg Map::Metro::Plugin::Map::Copenhagen
+
+=pkg Map::Metro::Plugin::Map::Gothenburg
+
+=pkg Map::Metro::Plugin::Map::Helsinki
+
+=pkg Map::Metro::Plugin::Map::Oslo
+
+=pkg Map::Metro::Plugin::Map::Stockholm
 
 =head1 SEE ALSO
 
+L<Map::Metro>
+
+L<Task::MapMetro::Dev>
 
 =head1 AUTHOR
 

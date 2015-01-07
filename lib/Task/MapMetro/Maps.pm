@@ -28,6 +28,12 @@ __END__
 
 =pkg Map::Metro::Plugin::Map::Berlin
 
+=pkg Map::Metro::Plugin::Map::Bilbao
+
+=pkg Map::Metro::Plugin::Map::Brescia
+
+=pkg Map::Metro::Plugin::Map::Brussels
+
 =pkg Map::Metro::Plugin::Map::Copenhagen
 
 =pkg Map::Metro::Plugin::Map::Gothenburg

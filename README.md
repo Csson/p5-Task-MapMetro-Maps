@@ -4,7 +4,7 @@ Task::MapMetro::Maps - All Map::Metro maps
 
 # VERSION
 
-version 0.0001
+version 0.1100
 
 # SYNOPSIS
 
@@ -25,6 +25,12 @@ version 0.0001
 ### [Map::Metro::Plugin::Map::Barcelona](https://metacpan.org/pod/Map::Metro::Plugin::Map::Barcelona)
 
 ### [Map::Metro::Plugin::Map::Berlin](https://metacpan.org/pod/Map::Metro::Plugin::Map::Berlin)
+
+### [Map::Metro::Plugin::Map::Bilbao](https://metacpan.org/pod/Map::Metro::Plugin::Map::Bilbao)
+
+### [Map::Metro::Plugin::Map::Brescia](https://metacpan.org/pod/Map::Metro::Plugin::Map::Brescia)
+
+### [Map::Metro::Plugin::Map::Brussels](https://metacpan.org/pod/Map::Metro::Plugin::Map::Brussels)
 
 ### [Map::Metro::Plugin::Map::Copenhagen](https://metacpan.org/pod/Map::Metro::Plugin::Map::Copenhagen)
 

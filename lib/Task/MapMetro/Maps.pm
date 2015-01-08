@@ -37,11 +37,15 @@ __END__
 
 =pkg Map::Metro::Plugin::Map::Brussels
 
+=pkg Map::Metro::Plugin::Map::Budapest
+
 =pkg Map::Metro::Plugin::Map::Copenhagen
 
 =pkg Map::Metro::Plugin::Map::Gothenburg
 
 =pkg Map::Metro::Plugin::Map::Helsinki
+
+=pkg Map::Metro::Plugin::Map::Madrid
 
 =pkg Map::Metro::Plugin::Map::Oslo
 

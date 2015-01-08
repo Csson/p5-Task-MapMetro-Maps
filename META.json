@@ -31,10 +31,6 @@
       },
       "develop" : {
          "requires" : {
-            "Test::EOF" : "0",
-            "Test::EOL" : "0",
-            "Test::More" : "0",
-            "Test::NoTabs" : "0",
             "Test::Pod" : "1.41"
          }
       },
@@ -48,9 +44,11 @@
             "Map::Metro::Plugin::Map::Bilbao" : "0",
             "Map::Metro::Plugin::Map::Brescia" : "0",
             "Map::Metro::Plugin::Map::Brussels" : "0",
+            "Map::Metro::Plugin::Map::Budapest" : "0",
             "Map::Metro::Plugin::Map::Copenhagen" : "0",
             "Map::Metro::Plugin::Map::Gothenburg" : "0",
             "Map::Metro::Plugin::Map::Helsinki" : "0",
+            "Map::Metro::Plugin::Map::Madrid" : "0",
             "Map::Metro::Plugin::Map::Oslo" : "0",
             "Map::Metro::Plugin::Map::Stockholm" : "0",
             "perl" : "5.010001"
@@ -75,6 +73,6 @@
          "web" : "https://github.com/Csson/p5-Task-MapMetro-Maps"
       }
    },
-   "version" : "0.1100"
+   "version" : "0.1200"
 }
 

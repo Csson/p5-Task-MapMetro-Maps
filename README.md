@@ -4,7 +4,7 @@ Task::MapMetro::Maps - All Map::Metro maps
 
 # VERSION
 
-version 0.1100
+version 0.1200
 
 # SYNOPSIS
 
@@ -32,11 +32,15 @@ version 0.1100
 
 ### [Map::Metro::Plugin::Map::Brussels](https://metacpan.org/pod/Map::Metro::Plugin::Map::Brussels)
 
+### [Map::Metro::Plugin::Map::Budapest](https://metacpan.org/pod/Map::Metro::Plugin::Map::Budapest)
+
 ### [Map::Metro::Plugin::Map::Copenhagen](https://metacpan.org/pod/Map::Metro::Plugin::Map::Copenhagen)
 
 ### [Map::Metro::Plugin::Map::Gothenburg](https://metacpan.org/pod/Map::Metro::Plugin::Map::Gothenburg)
 
 ### [Map::Metro::Plugin::Map::Helsinki](https://metacpan.org/pod/Map::Metro::Plugin::Map::Helsinki)
+
+### [Map::Metro::Plugin::Map::Madrid](https://metacpan.org/pod/Map::Metro::Plugin::Map::Madrid)
 
 ### [Map::Metro::Plugin::Map::Oslo](https://metacpan.org/pod/Map::Metro::Plugin::Map::Oslo)
 

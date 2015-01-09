@@ -7,7 +7,7 @@ package Task::MapMetro::Maps;
 
 1;
 
-# ABSTRACT: All Map::Metro maps
+# ABSTRACT: Map::Metro maps in a bundle
 
 __END__
 
@@ -19,7 +19,7 @@ __END__
 
 =pkgroup Map::Metro
 
-=pkg Map::Metro 0.2101
+=pkg Map::Metro 0.2201
 
 =pkgroup Available maps
 
@@ -44,6 +44,8 @@ __END__
 =pkg Map::Metro::Plugin::Map::Gothenburg
 
 =pkg Map::Metro::Plugin::Map::Helsinki
+
+=pkg Map::Metro::Plugin::Map::Lille
 
 =pkg Map::Metro::Plugin::Map::Madrid
 

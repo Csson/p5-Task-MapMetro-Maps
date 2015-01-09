@@ -1,5 +1,5 @@
 {
-   "abstract" : "All Map::Metro maps",
+   "abstract" : "Map::Metro maps in a bundle",
    "author" : [
       "Erik Carlsson <info@code301.com>"
    ],
@@ -36,7 +36,7 @@
       },
       "runtime" : {
          "requires" : {
-            "Map::Metro" : "0.2101",
+            "Map::Metro" : "0.2201",
             "Map::Metro::Plugin::Map::Amsterdam" : "0",
             "Map::Metro::Plugin::Map::Athens" : "0",
             "Map::Metro::Plugin::Map::Barcelona" : "0",
@@ -48,16 +48,16 @@
             "Map::Metro::Plugin::Map::Copenhagen" : "0",
             "Map::Metro::Plugin::Map::Gothenburg" : "0",
             "Map::Metro::Plugin::Map::Helsinki" : "0",
+            "Map::Metro::Plugin::Map::Lille" : "0",
             "Map::Metro::Plugin::Map::Madrid" : "0",
             "Map::Metro::Plugin::Map::Oslo" : "0",
             "Map::Metro::Plugin::Map::Stockholm" : "0",
-            "perl" : "5.010001"
+            "perl" : "5.014000"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.96",
-            "Test::NoTabs" : "0"
+            "Test::More" : "0.96"
          }
       }
    },
@@ -73,6 +73,6 @@
          "web" : "https://github.com/Csson/p5-Task-MapMetro-Maps"
       }
    },
-   "version" : "0.1200"
+   "version" : "0.1300"
 }
 

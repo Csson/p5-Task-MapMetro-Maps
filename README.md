@@ -1,10 +1,10 @@
 # NAME
 
-Task::MapMetro::Maps - All Map::Metro maps
+Task::MapMetro::Maps - Map::Metro maps in a bundle
 
 # VERSION
 
-version 0.1200
+version 0.1300
 
 # SYNOPSIS
 
@@ -14,7 +14,7 @@ version 0.1200
 
 ## Map::Metro
 
-### [Map::Metro](https://metacpan.org/pod/Map::Metro) 0.2101
+### [Map::Metro](https://metacpan.org/pod/Map::Metro) 0.2201
 
 ## Available maps
 
@@ -39,6 +39,8 @@ version 0.1200
 ### [Map::Metro::Plugin::Map::Gothenburg](https://metacpan.org/pod/Map::Metro::Plugin::Map::Gothenburg)
 
 ### [Map::Metro::Plugin::Map::Helsinki](https://metacpan.org/pod/Map::Metro::Plugin::Map::Helsinki)
+
+### [Map::Metro::Plugin::Map::Lille](https://metacpan.org/pod/Map::Metro::Plugin::Map::Lille)
 
 ### [Map::Metro::Plugin::Map::Madrid](https://metacpan.org/pod/Map::Metro::Plugin::Map::Madrid)
 

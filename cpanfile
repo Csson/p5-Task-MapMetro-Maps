@@ -1,9 +1,6 @@
-requires 'perl', '5.010001';
-
-# requires 'Some::Module', 'VERSION';
+requires 'perl', '5.014000';
 
 on test => sub {
     requires 'Test::More', '0.96';
-    requires 'Test::NoTabs';
 };
 

@@ -8,14 +8,26 @@ Revision history for Task-MapMetro-Maps
  [Documentation]
 
  [Enhancements]
- - Bumped Map::Metro to 0.2201.
- - Added Lille.
 
  [Meta]
 
  [New Features]
 
+ [Requirements]
+
  [Revision]
+
+0.1301 2015-02-03T22:30:36Z CET
+ [Enhancements]
+ - Added Lyon.
+
+ [Requirements]
+ - Bumped Map::Metro to 0.2206.
+
+0.1300 2015-01-09T23:36:44Z CET
+ [Enhancements]
+ - Bumped Map::Metro to 0.2201.
+ - Added Lille.
 
 0.1200 2015-01-08T21:53:15Z CET
  [New Features]

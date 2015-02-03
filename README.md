@@ -4,7 +4,7 @@ Task::MapMetro::Maps - Map::Metro maps in a bundle
 
 # VERSION
 
-version 0.1300
+version 0.1301
 
 # SYNOPSIS
 
@@ -14,7 +14,7 @@ version 0.1300
 
 ## Map::Metro
 
-### [Map::Metro](https://metacpan.org/pod/Map::Metro) 0.2201
+### [Map::Metro](https://metacpan.org/pod/Map::Metro) 0.2206
 
 ## Available maps
 
@@ -41,6 +41,8 @@ version 0.1300
 ### [Map::Metro::Plugin::Map::Helsinki](https://metacpan.org/pod/Map::Metro::Plugin::Map::Helsinki)
 
 ### [Map::Metro::Plugin::Map::Lille](https://metacpan.org/pod/Map::Metro::Plugin::Map::Lille)
+
+### [Map::Metro::Plugin::Map::Lyon](https://metacpan.org/pod/Map::Metro::Plugin::Map::Lyon)
 
 ### [Map::Metro::Plugin::Map::Madrid](https://metacpan.org/pod/Map::Metro::Plugin::Map::Madrid)
 

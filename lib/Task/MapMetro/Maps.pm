@@ -19,7 +19,7 @@ __END__
 
 =pkgroup Map::Metro
 
-=pkg Map::Metro 0.2201
+=pkg Map::Metro 0.2206
 
 =pkgroup Available maps
 
@@ -46,6 +46,8 @@ __END__
 =pkg Map::Metro::Plugin::Map::Helsinki
 
 =pkg Map::Metro::Plugin::Map::Lille
+
+=pkg Map::Metro::Plugin::Map::Lyon
 
 =pkg Map::Metro::Plugin::Map::Madrid
 

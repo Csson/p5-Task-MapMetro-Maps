@@ -3,11 +3,12 @@ use warnings;
 
 package Task::MapMetro::Maps;
 
+# ABSTRACT: Map::Metro maps in a bundle
+# AUTHORITY
 # VERSION
 
 1;
 
-# ABSTRACT: Map::Metro maps in a bundle
 
 __END__
 
@@ -19,7 +20,7 @@ __END__
 
 =pkgroup Map::Metro
 
-=pkg Map::Metro 0.2206
+=pkg Map::Metro 0.2404
 
 =pkgroup Available maps
 
@@ -30,10 +31,6 @@ __END__
 =pkg Map::Metro::Plugin::Map::Barcelona
 
 =pkg Map::Metro::Plugin::Map::Berlin
-
-=pkg Map::Metro::Plugin::Map::Bilbao
-
-=pkg Map::Metro::Plugin::Map::Brescia
 
 =pkg Map::Metro::Plugin::Map::Brussels
 

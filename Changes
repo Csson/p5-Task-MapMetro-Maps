@@ -3,7 +3,9 @@ Revision history for Task-MapMetro-Maps
 {{$NEXT}}
  [API Changes]
 
- [Bug Fixes]
+ [Contents]
+  - Temporarily removed Bilbao and Brescia (currently not available).
+  - Bumped Map::Metro to 0.2404.
 
  [Documentation]
 
@@ -15,7 +17,7 @@ Revision history for Task-MapMetro-Maps
 
  [Requirements]
 
- [Revision]
+ [Other Changes]
 
 0.1301 2015-02-03T22:30:36Z CET
  [Enhancements]

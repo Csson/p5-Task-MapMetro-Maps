@@ -1,8 +1,11 @@
-/Task-MapMetro-Maps-*
+# This file was auto-generated from iller.yaml by Dist::Iller on 2016-05-14 21:00:11 UTC.
+# The following configs were used:
+# * Dist::Iller::Config::Author::CSSON: 0.0309
+
 /.build
 /_build*
 /Build
 MYMETA.*
 !META.json
 /.prove
-
+/Task-MapMetro-Maps-*

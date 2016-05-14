@@ -5,7 +5,7 @@ package Task::MapMetro::Maps;
 
 # ABSTRACT: Map::Metro maps in a bundle
 # AUTHORITY
-# VERSION
+our $VERSION = '0.1303';
 
 1;
 
